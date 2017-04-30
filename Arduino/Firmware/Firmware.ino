@@ -9,6 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
+#define BRUSHLESSMOTORWOBARREL_PIN_DATA	3
 
 
 // =======================Pin Definitions // ===================================
